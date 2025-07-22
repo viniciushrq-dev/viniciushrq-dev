@@ -27,7 +27,7 @@ I'm a passionate technology enthusiast focused on learning and building practica
 
 ## 🛠️ Tools & Technologies
 
-`Python` · `Terraform` · `AWS` · `SQLite` · `Tkinter` · `GitHub Actions` · `Docker` · `CloudFormation`
+`Python` · `Terraform` · `AWS` · `SQLite` · `GitHub Actions` · `Docker` · `CloudFormation`
 
 ---
 
